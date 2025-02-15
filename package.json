@@ -1,0 +1,11 @@
+{
+  "name": "virtualDom",
+  "version": "1.0.0",
+  "homepage": "https://mohammad-gh72.github.io/virtualDom",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
